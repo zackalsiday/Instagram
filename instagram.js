@@ -5,11 +5,6 @@ class Instagram {
         this.followee = {} // list of people that each user is following 
     }
 
-    // set(photos){
-    //     this.photos = {}
-    //     this.followers = {}
-    //     this.followee = {}
-    // }
 
     postPhoto(userId, photoId) {
         // Write code here...
